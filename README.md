@@ -1,7 +1,6 @@
 Oi, Sou Kauã Borba
 
-- 🔭 Buscando a primeira oportunidade.
-- 🌱 Estudando API rest e ReactJS
+- 🔭 Buscando a primeira oportunidade
 - 🤔 Qualquer ajuda ou dica é bem-vinda
 - 📫 E-mail: kaua.borba03@gmail.com
 
